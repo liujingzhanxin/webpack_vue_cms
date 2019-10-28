@@ -12,7 +12,7 @@
 		-->
 	<!--	HomeContainer.vue-->
 		
-		<mt-swipe :auto="4000">
+		   <mt-swipe :auto="4000">
 		 <!-- <mt-swipe-item>1</mt-swipe-item>
 		  <mt-swipe-item>2</mt-swipe-item>
 		  <mt-swipe-item>3</mt-swipe-item>-->
@@ -20,7 +20,7 @@
 		  -->
 		  <mt-swipe-item v-for="item in lunbotuList" :key="item.url">
 		  	
-		  	   <img  :src="item.img">
+		  	     <img  :src="item.img">
 		  	
 		  </mt-swipe-item>
 		</mt-swipe>
