@@ -2,7 +2,7 @@
 	<div class="app-contaier">	
 <!--	这是app组件-->
 	
-		<mt-header fixed title="战新：vue项目实战"></mt-header>
+		<mt-header fixed title="战新人才：vue项目实战"></mt-header>
 		<!--<div>内容</div>-->
 		<transition>
 			<router-view></router-view>
