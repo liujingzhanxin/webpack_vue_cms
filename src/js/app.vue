@@ -26,7 +26,7 @@
 					<span class="mui-badge">0</span>
 					
 				</span>
-				<span class="mui-tab-label">购物车</span>
+				<span class="mui-tab-label">购物信息</span>
 			</router-link>
 			<router-link class="mui-tab-item" to="/search">
 				<span class="mui-icon mui-icon-search"></span>
@@ -62,8 +62,6 @@
 		transition: all 0.5s ease;
 }
  
- 
- 
- 
+
 
 </style>
